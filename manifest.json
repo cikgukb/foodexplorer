@@ -1,0 +1,22 @@
+{
+  "name": "Manjung Food Explorer",
+  "short_name": "ManjungMap",
+  "description": "Cari kedai makan viral dan sedap di sekitar daerah Manjung, Perak.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f1f2f6",
+  "theme_color": "#ff4757",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3706/3706059.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3706/3706059.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
